@@ -1,0 +1,46 @@
+_repo: Humorous-Readings-and-RecitationsIn-prose-and-verse_36775
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 36775-h/images/cover.jpg
+creator:
+  editor:
+    agent_name: Wagner, Leopold
+    birthdate: 1858
+    gutenberg_agent_id: '38467'
+    url: http://www.gutenberg.org/2009/agents/38467
+description: ''
+gutenberg_issued: '2011-07-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36775'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Humorous recitations'
+- !lcc 'PN'
+tableOfContents: Accompanied on the flute / F. Anstey -- The troubles of a triplet
+  / W. Beatty-Kingston -- Slightly deaf / Bracebridge Hemming -- The lady Freemason
+  / H. T. Craven -- What happened last night! / F. B. Harrison -- The fatal legs /
+  Walter Browne -- The Caliph's jester / From the Arabic -- A journey in search of
+  nothing / Wilkie Collins -- Gemini and Virgo / C. S. Calverley -- King Bibbs / James
+  Albery -- Molly Muldoon / Anonymous -- The harmonious lobsters / Robert Reece --
+  The provincial landlady / H. Chance Newton -- My matrimonial predicament / Leopold
+  Wagner -- Etiquette / W. S. Gilbert -- A lost shepherd / Frank Barrett -- A mathematic
+  madness / F. P. Dempster -- Waiting at Tottlepot / J. Ashby-Sterry -- Married to
+  a giantess / Walter Parke -- The vision of the alderman / Henry S. Leigh -- The
+  demon snuffers / Geo. Manville Fenn -- The Walrus and the Carpenter / Lewis Carroll
+  -- My brother Henry / J. M. Barrie -- A night with a stork / W. E. Wilcox -- The
+  faithful lovers / F. C. Burnand -- The wail of a banner-bearer / Arthur Matthison
+  -- The dream of the bilious beadle / Arthur Shirley -- My friend Treacle / Watkin-Elliott
+  -- The voice of the sluggard / Anonymous -- Artemus Ward's visit to the Tower of
+  London / Chas. Farrar Browne -- Mr. Caudle has lent an acquaintance the family umbrella
+  / Douglas Jerrold -- Domestic asides / Tom Hood -- The charity dinner / Litchfield
+  Moseley -- Acting with a vengeance / W. Sapte, Jun. -- My fortnight at Wretchedville
+  / George Augustus Sala -- The sorrows of Werther / W. M. Thackeray -- Moral music
+  / Anonymous -- Billy Dumps, the tailor / Charles Clark -- On punning / Theodore
+  Hook -- Seaside lodgings / Percy Reeve.
+title: Humorous Readings and Recitations, in Prose and Verse
+url: http://www.gutenberg.org/ebooks/36775
